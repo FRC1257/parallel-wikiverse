@@ -1,4 +1,4 @@
-* Jackie Gerstein (????-Present)
+* Jackie Gerstein (2010 - Present)
 * Matt Hagan (????-Present)
 * Adam Moskowitz (2015-Present)
 * Jiin Kang (2017-Present)
