@@ -1,5 +1,7 @@
 ## Overall Resources
 
+> "Steal from the best, invent the rest."  - Mike Corsetto
+
 [Nutrons Seminars (FRC125)](https://www.nutrons.com/seminars/)
 
 [Simbot Seminar Series (FRC1114)](http://www.simbotics.org/resources/simbot-seminar-series)
