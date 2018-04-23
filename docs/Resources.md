@@ -24,6 +24,8 @@
 
 [JVN Mechanical Design Calculator](https://www.chiefdelphi.com/media/papers/3188)
 
+[Aren Hill FRC Mechanical Design Calculator](https://www.chiefdelphi.com/forums/showthread.php?t=149266)
+
 [FRC148 "Engineering Design Process For Robotics"](http://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
 
 [VEX Motor Information](http://motors.vex.com/)
