@@ -42,7 +42,7 @@ Other components of the scouting app include:
 To use the scouting app, you will need an Android tablet and a poor soul who is willing to scout. To send data from the app, you will either need Internet access or a Bluetooth connection to a device with Internet access.
 
 Using the scouting app:
-1. Open the latest version of the scouting app. You can find the .apk here: https://drive.google.com/open?id=1z5u0EEH1xg7zsRAD2hs8-02C9KJ4v9XR
+1. Open the latest version of the scouting app. You can find the .apk [here.](https://drive.google.com/open?id=1z5u0EEH1xg7zsRAD2hs8-02C9KJ4v9XR)
 2. If the scouting app is being used at competition, specify which robot should be scouted by using the Scouting Assignment Button. This step is unnecessary for prescouting.
 3. Make sure scouts know how to use the app. Also, make sure scouts know what to include in Notes, because good notes are very important in fully understanding a robot's capabilities. On Team 1257, we hold a scouting training session towards the end of build season, and we also have head scouts teach people at competition if necessary.
 4. After an appropriate number of matches, send data from the app. Instructions for sending data are given below.
@@ -52,17 +52,25 @@ To send data:
 a. Click the "Send Data" button.
 b. Select "This Device".
 c. The data should appear in the Notes box. Select all of the data and choose Cut.
-d. Open the Google Form for your data analysis spreadsheet. For reference, ours is located here: https://docs.google.com/forms/d/e/1FAIpQLSc3q8jLCsXbG86QdCjSnhLQb-dfINtFVXdnw7TE3kJe5hQHhw/viewform
+d. Open the Google Form for your data analysis spreadsheet. For reference, ours is located [here.](https://docs.google.com/forms/d/e/1FAIpQLSc3q8jLCsXbG86QdCjSnhLQb-dfINtFVXdnw7TE3kJe5hQHhw/viewform)
 e. Paste the data and submit the form. The data should now be in Google Sheets for processing.
 
 2. If you have another Android tablet with Internet:
+
 a. Make sure the two devices are paired with Bluetooth.
-b. Open the scouting server on the Android tablet with Internet. You can find the .apk here: https://drive.google.com/open?id=1z5u0EEH1xg7zsRAD2hs8-02C9KJ4v9XR
+
+b. Open the scouting server on the Android tablet with Internet. You can find the .apk [here.](https://drive.google.com/open?id=1z5u0EEH1xg7zsRAD2hs8-02C9KJ4v9XR)
+
 c. Click "Accept Connections" on the scouting server.
+
 d. On the scouting app, click the "Send Data" button.
+
 e. Select the device with the scouting server.
+
 f. The data should appear in a large text box on the scouting server. Select all of the data and choose CUt.
-g. Open the Google Form for your data analysis spreadsheet. For reference, ours is located here: https://docs.google.com/forms/d/e/1FAIpQLSc3q8jLCsXbG86QdCjSnhLQb-dfINtFVXdnw7TE3kJe5hQHhw/viewform
+
+g. Open the Google Form for your data analysis spreadsheet. For reference, ours is located [here.](https://docs.google.com/forms/d/e/1FAIpQLSc3q8jLCsXbG86QdCjSnhLQb-dfINtFVXdnw7TE3kJe5hQHhw/viewform)
+
 h. Paste the data and submit the form. The data should now be in Google Sheets for processing.
 
 ## Members Involved
