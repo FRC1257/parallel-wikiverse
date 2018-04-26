@@ -16,11 +16,36 @@ Our primary vendor for screenprinted merchandise is [2K Printing](http://www.2kp
 ## Process
 
 ### Design merchandise
+Merchandise designs should be vector-based. Important considerations:
+* Designs should be large, clean, and clear. If it's hard to represent as a vector graphic, it may not work well on merch. The team logo in particular should be as large as possible on the t-shirt and on plain hoodies.
+* Screenprinting and embroidery both increase in price with larger sizes (particularly for embroidery) and a greater number of colors (particularly for screen printing). Unless there's a good reason, limit yourself to black, white, green, and purple.
+* Avoid slightly different sizes of the same design for screen printing. Each different size is a separate set of screens, which we will be charged for.
+* These are guidelines, not unbreakable rules. If you have a good reason to diverge from these recommendations, ask about it!
 ### Get designs approved
+* No surprises coming back from the vendors, please.
 ### Request quotes
+Request quotes as early as possible. Try to have a finished design before you get quotes, but if needed you will typically be able to make minor changes without changing the price, as long as you don't change the overall size and number of colors.
+Both vendors that we work with are happy to take requests by email. Requests must be approved by a mentor and should include:
+* Design files
+* What we want to make (shirts, hats, hoodies, etc). If you don't know what exact model of shirts or other garments you want, the vendors can work with you to help you choose.
+* Approximate quantities you think we'll sell, plus a request for what the price would be at various quantities. Each vendor will have breakpoints at which items get cheaper beyond a certain quantity.
+
+**When you send the request for quote, please remember to include both faculty mentors as well!**
 ### Set pricing
+* Use the quotes from the vendors and the recommended pricing guide to determine pricing. Remember that we'll need to cover shirts for sponsors as well.
 ### Take orders
+Our current method is to use a Google Form. We are open to other methods. At a minimum, each order should contain:
+* Name
+* Affiliation with team
+* Quantities/sizes for order
+* How/when/where the order will be picked up if the person is not regularly there
+
+**Remember to order spares and sponsor shirts**
 ### Request check
+Request a check from a faculty mentor, who will request it from the school.
 ### Submit orders
+Get the order approved, then submit to the vendors.
 ### Bundle merchandise
+When the merchandise is delivered, it must be bundled by order and labeled before *anybody* is allowed to pick it up.
 ### Distribute merchandise
+Merchandise must be paid for before it is picked up.
