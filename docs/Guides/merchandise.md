@@ -28,9 +28,9 @@ Request quotes as early as possible. Try to have a finished design before you ge
 Both vendors that we work with are happy to take requests by email. Requests must be approved by a mentor and should include:
 * Design files
 * What we want to make (shirts, hats, hoodies, etc). If you don't know what exact model of shirts or other garments you want, the vendors can work with you to help you choose.
-* Approximate quantities you think we'll sell, plus a request for what the price would be at various quantities. Each vendor will have breakpoints at which items get cheaper beyond a certain quantity.
+* Approximate quantities you think we'll sell, plus a request for what the price would be at lower quantities. Each vendor will have breakpoints at which items get cheaper beyond a certain quantity.
 
-**When you send the request for quote, please remember to include both faculty mentors as well!**
+*When you send the request for quote, please remember to include both faculty mentors as well!*
 ### Set pricing
 * Use the quotes from the vendors and the recommended pricing guide to determine pricing. Remember that we'll need to cover shirts for sponsors as well.
 ### Take orders
@@ -40,12 +40,24 @@ Our current method is to use a Google Form. We are open to other methods. At a m
 * Quantities/sizes for order
 * How/when/where the order will be picked up if the person is not regularly there
 
-**Remember to order spares and sponsor shirts**
+*Remember to order spares and sponsor shirts*
 ### Request check
 Request a check from a faculty mentor, who will request it from the school.
 ### Submit orders
 Get the order approved, then submit to the vendors.
 ### Bundle merchandise
-When the merchandise is delivered, it must be bundled by order and labeled before *anybody* is allowed to pick it up.
+When the merchandise is delivered, it must be bundled by order and labeled before **anybody** is allowed to pick it up.
 ### Distribute merchandise
 Merchandise must be paid for before it is picked up.
+
+## Timing Guide
+It's hard for people new to the merchandise process to estimate how long various steps will take. These recommended timings are the latest dates that we expect to result in a smooth process. You are encouraged to start each phase earlier than shown in the chart in case of problems.
+
+| Phase                                                    	| Start                                                                           	| End                                                                           	|
+|-------------------------------------------------------	|---------------------------------------------------------------------------------	|-------------------------------------------------------------------------------	|
+| Design & get approval                                 	| As early as possible                                                            	| 12 weeks before first event                                                   	|
+| Request quotes & set pricing                          	| 12 weeks before first event (may require multiple communications and revisions) 	| 9 weeks before first event                                                    	|
+| Take orders                                           	| 9 weeks before first event                                                      	| 6 weeks before first event                                                    	|
+| Request check & submit orders (takes 3-5 school days) 	| 6 weeks before first event                                                      	| As quickly as possible - no more than 5 weeks before first event              	|
+| Bundle merchandise                                    	| As soon as merchandise is delivered                                             	| Approximately 3 days after delivery - no later than 1 week before first event 	|
+| Distribute merchandise                                	| As soon as bundling is complete                                                 	| After all merchandise is distributed                                          	|
