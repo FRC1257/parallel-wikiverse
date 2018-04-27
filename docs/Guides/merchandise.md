@@ -22,7 +22,7 @@ Merchandise designs should be vector-based. Important considerations:
 * Avoid slightly different sizes of the same design for screen printing. Each different size is a separate set of screens, which we will be charged for.
 * These are guidelines, not unbreakable rules. If you have a good reason to diverge from these recommendations, ask about it!
 ### Get designs approved
-* No surprises coming back from the vendors, please.
+No surprises coming back from the vendors, please.
 ### Request quotes
 Request quotes as early as possible. Try to have a finished design before you get quotes, but if needed you will typically be able to make minor changes without changing the price, as long as you don't change the overall size and number of colors.
 Both vendors that we work with are happy to take requests by email. Requests must be approved by a mentor and should include:
@@ -30,7 +30,7 @@ Both vendors that we work with are happy to take requests by email. Requests mus
 * What we want to make (shirts, hats, hoodies, etc). If you don't know what exact model of shirts or other garments you want, the vendors can work with you to help you choose.
 * Approximate quantities you think we'll sell, plus a request for what the price would be at lower quantities. Each vendor will have breakpoints at which items get cheaper beyond a certain quantity.
 
-*When you send the request for quote, please remember to include both faculty mentors as well!*
+**When you send the request for quote, please remember to include both faculty mentors as well!**
 ### Set pricing
 * Use the quotes from the vendors and the recommended pricing guide to determine pricing. Remember that we'll need to cover shirts for sponsors as well.
 ### Take orders
@@ -40,7 +40,7 @@ Our current method is to use a Google Form. We are open to other methods. At a m
 * Quantities/sizes for order
 * How/when/where the order will be picked up if the person is not regularly there
 
-*Remember to order spares and sponsor shirts*
+**Remember to order spares and sponsor shirts**
 ### Request check
 Request a check from a faculty mentor, who will request it from the school.
 ### Submit orders
