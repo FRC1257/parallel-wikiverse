@@ -25,9 +25,18 @@ Current (current limiting enabled whenever motor current exceeds the limit)
 |______/
 |
 +------+------+----------------------------------> time
-       t=0    t=Peak Duration```
+       t=0    t=Peak Duration
        
 Note: this is not what I know for sure actually happens, just what I would hope for.
 ```
 
 > In a nutshell - the peak limit allows for the motor current to jump high for a short period of time (ex when it experiences rapid acceleration), but otherwise limits to the continuous limit setting. Peak limit is still in place to ensure a short circuit or brownout-inducing current draw will immediately be squashed. Continuous limiting will keep the current draw acceptable in a slower ramp up, such as in a pushing match. /$0.02
+
+### Courtesy of Asid
+
+```
+talon.ConfigPeakCurrentLimit(35, 10); /* 35 A /
+talon.ConfigPeakCurrentDuration(200, 10); / 200ms /
+talon.ConfigContinuousCurrentLimit(30, 10); / 30A /
+talon.EnableCurrentLimit(true); / turn it on */
+```
